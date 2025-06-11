@@ -25,7 +25,9 @@ project-root/
 - LiveServer : for hosting web-server
 
 ### Testing Steps
-Same as this: https://github.com/SMaityCodes/WebSiteWithBackEnd/tree/Veriosn2
+Same as this: [
+WebSiteWithBackEnd
+ version2 branch](https://github.com/SMaityCodes/WebSiteWithBackEnd/tree/Veriosn2)
 
 ## Deployment Guidelines:-
 
