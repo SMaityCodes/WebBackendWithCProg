@@ -10,11 +10,12 @@ project-root/
 │   └── style.css
 
 ├── render-backend/        # Contains the backend hosting files
-│   ├── my_c_program     #   A C EXECUTABLE (BINARY) FILE
+│   ├── my_c_program     #   __A C EXECUTABLE (BINARY) FILE__
 │   ├── package.json
 │   ├── package-lock.json
 │   └── server.js
 ├── readme.md              # This file
+└── my_c_program.c # The souce code of the C Program
 
 ```
 
