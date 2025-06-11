@@ -26,9 +26,9 @@ project-root/
 
 ### Testing Steps
 Same as this: [
-WebSiteWithBackEnd
+"WebSiteWithBackEnd"
  version2 branch](https://github.com/SMaityCodes/WebSiteWithBackEnd/tree/Veriosn2)
 
 ## Deployment Guidelines:-
 
-Same as this: ([main branch](https://github.com/SMaityCodes/WebSiteWithBackEnd.git))
+Same as this: ["WebSiteWithBackEnd" main branch](https://github.com/SMaityCodes/WebSiteWithBackEnd.git)
