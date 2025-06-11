@@ -1,3 +1,5 @@
+# The main purpose of the version is to demonstarate how to invoke a C executable (binary) kept at the backend server.
+
 ## 📦 The Organization of this repository:-
 
 ```
@@ -8,14 +10,13 @@ project-root/
 │   └── style.css
 
 ├── render-backend/        # Contains the backend hosting files
+│   ├── my_c_program     #   A C EXECUTABLE (BINARY) FILE
 │   ├── package.json
 │   ├── package-lock.json
 │   └── server.js
 ├── readme.md              # This file
 
 ```
-## Programmer's Guidelines:-
-This repository has been created to learn how to fist 1) Develop and test a full-stack website on local machine and then host it on web.
 
 ## How to test it on local machine:-
 ### Prerequisite 
@@ -53,4 +54,4 @@ This repository has been created to learn how to fist 1) Develop and test a full
 
 ## Deployment Guidelines:-
 
-Same as main branch
+Same as this repo: ([main branch](https://github.com/SMaityCodes/WebSiteWithBackEnd.git))
